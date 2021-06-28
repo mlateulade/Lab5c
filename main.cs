@@ -2,7 +2,7 @@ using System;
 
 class MainClass {
   public static void Main (string[] args) {
-
+    //This was very very difficult and I had to do some online research to figure it out
     //calculation variables
     int x;
     int y = 0;
